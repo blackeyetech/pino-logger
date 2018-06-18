@@ -1,0 +1,22 @@
+{
+  "name": "pino-logger",
+  "description": "",
+  "main": "pino-logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackeyetech/pino-logger.git"
+  },
+  "keywords": ["besh", "logger", "pino"],
+  "author": "Black Eye Technology",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackeyetech/pino-logger/issues"
+  },
+  "homepage": "https://github.com/blackeyetech/pino-logger#readme",
+  "dependencies": {
+    "pino": "^4.17.3"
+  }
+}
