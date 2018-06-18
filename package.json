@@ -9,7 +9,11 @@
     "type": "git",
     "url": "git+https://github.com/blackeyetech/pino-logger.git"
   },
-  "keywords": ["besh", "logger", "pino"],
+  "keywords": [
+    "besh",
+    "logger",
+    "pino"
+  ],
   "author": "Black Eye Technology",
   "license": "MIT",
   "bugs": {
@@ -18,5 +22,6 @@
   "homepage": "https://github.com/blackeyetech/pino-logger#readme",
   "dependencies": {
     "pino": "^4.17.3"
-  }
+  },
+  "version": "1.0.0"
 }
