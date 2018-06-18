@@ -1,5 +1,5 @@
 {
-  "name": "pino-logger",
+  "name": "@besh/pino-logger",
   "description": "",
   "main": "pino-logger.js",
   "scripts": {
